@@ -21,4 +21,6 @@ for i in range(365*13):
     print (str(i) +"    " + str(result) + "     " + str(day_percent(result)))
 
 percent = result-mone2
-print("Процент = " + str(percent))
+print("Процент = " + str(percent)) 
+
+print("Новый комит")
